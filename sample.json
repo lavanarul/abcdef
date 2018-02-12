@@ -2,7 +2,7 @@
   {
     id: 1,
     name: "Redmi Note 4",
-    image: "https://raw.githubusercontent.com/lavanarul/abcdef/master/fk.png",
+    image: "https://www.underconsideration.com/brandnew/archives/flipkart_logo_detail_icon.jpg",
     site: "flipkart",
     saleTiming: "2018-02-09 12:00:00",
     variants: [
@@ -21,7 +21,7 @@
   {
     id: 2,
     name: "Redmi Note 5",
-    image: "https://raw.githubusercontent.com/lavanarul/abcdef/master/amzn.png",
+    image: "https://chance-magazine.com/wp-content/uploads/2014/07/td-amazon-smile-logo-01-large.jpg",
     site: "amazon",
 	saleTiming: "2018-02-12 12:00:00",
     variants: [
