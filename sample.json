@@ -4,62 +4,36 @@
     name: "Redmi Note 4",
     image: "http://placehold.it/200x500",
     site: "flipkart",
+    saleTiming: "2018-02-09 12:00:00",
     variants: [
       {
-        color: "Black",
-        ram: 1,
-        memory: null,
+        color: "Black 2GB",
+		image: "http://placehold.it/200x500",
         link: "http://flipkart.com/rn4black132"
       },
       {
-        color: "White",
-        ram: 1,
-        memory: null,
+        color: "White 3GB",
+        image: "http://placehold.it/200x500",
         link: "http://flipkart.com/rn4black132"
-      },
-      {
-        color: "White",
-        ram: 2,
-        memory: null,
-        link: "http://flipkart.com/rn4black132"
-      },
-      {
-        color: "Black",
-        ram: 2,
-        memory: null,
-        link: "http://flipkart.com/rn4black264"
       }
     ]
   },
   {
-    id: 1,
+    id: 2,
     name: "Redmi Note 5",
     image: "http://placehold.it/200x500",
     site: "amazon",
+	saleTiming: "2018-02-12 12:00:00",
     variants: [
       {
-        color: "Black",
-        ram: null,
-        memory: 32,
+        color: "Black 2 GB",
+		image: "http://placehold.it/200x500",
         link: "http://flipkart.com/rn4black132"
       },
       {
-        color: "White",
-        ram: null,
-        memory: 32,
+        color: "White 3 GB",
+        image: "http://placehold.it/200x500",
         link: "http://flipkart.com/rn4black132"
-      },
-      {
-        color: "White",
-        ram: null,
-        memory: 64,
-        link: "http://flipkart.com/rn4black132"
-      },
-      {
-        color: "Black",
-        ram: null,
-        memory: 64,
-        link: "http://flipkart.com/rn4black264"
       }
     ]
   }
