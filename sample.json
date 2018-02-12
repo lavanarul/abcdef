@@ -2,7 +2,7 @@
   {
     id: 1,
     name: "Redmi Note 4",
-    image: "http://placehold.it/200x500",
+    image: "https://raw.githubusercontent.com/lavanarul/abcdef/master/fk.png",
     site: "flipkart",
     saleTiming: "2018-02-09 12:00:00",
     variants: [
@@ -21,7 +21,7 @@
   {
     id: 2,
     name: "Redmi Note 5",
-    image: "http://placehold.it/200x500",
+    image: "https://raw.githubusercontent.com/lavanarul/abcdef/master/amzn.png",
     site: "amazon",
 	saleTiming: "2018-02-12 12:00:00",
     variants: [
