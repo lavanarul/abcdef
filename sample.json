@@ -4,6 +4,7 @@
     name: "Redmi Note 4",
     image: "https://raw.githubusercontent.com/lavanarul/abcdef/master/mi-redmi-note-4-na-original-imaeqdxjuadhagfc.jpeg",
     site: "flipkart",
+	   primaryColor: '#2980b9',
     saleTiming: "2018-02-09 12:00:00",
     variants: [
       {
@@ -23,6 +24,7 @@
     name: "Redmi Note 5",
     image: "https://raw.githubusercontent.com/lavanarul/abcdef/master/mi-redmi-note-4-na-original-imaeqdxgrdhxgkcx.jpeg",
     site: "amazon",
+	    primaryColor: '#2980b9',
 	saleTiming: "2018-02-12 12:00:00",
     variants: [
       {
