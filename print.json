@@ -1,0 +1,56 @@
+{
+  "title_width": 1,
+  "title_height": 1,
+  "branch_name": "Skedsmo senter",
+  "branch_addr": "Furuveien 5, 2020 Skedsmokorset",
+  "branch_phone": "+47 63 87 36 76",
+  "branch_vat": "Org. nr: 983 465 676 MVA",
+  "branch_feed": "4",
+  "bar_width": 2,
+  "bar_height": 2,
+  "order_no": 51140,
+  "cust_width": 1,
+  "cust_height": 1,
+  "cust_no": "909 68 960",
+  "cust_no_feed": 1,
+  "name_width": 2,
+  "name_height": 2,
+  "cust_fname": ":LØKÅS",
+  "cust_lname": "HILDE",
+  "cashier_width": 1,
+  "cashier_height": 1,
+  "cashier_name": "LV",
+  "time_stamp": "25.05.2018 11:16:42",
+  "cashier_feed": 1,
+  "Item Details": [
+    {
+      "item_width": 1,
+      "item_height": 2,
+      "item_name": "Bukse",
+      "item_amount": 100,
+      "item_quantity": 1
+    },
+    {
+      "item_width": 1,
+      "item_height": 2,
+      "item_name": " Dress",
+      "item_amount": 100,
+      "item_quantity": 1
+    },
+    {
+      "item_width": 1,
+      "item_height": 2,
+      "item_name": "Slips",
+      "item_amount": 100,
+      "item_quantity": 1
+    }
+  ],
+  "sub_feed": 1,
+  "sub_total": 100,
+  "vat_percent": 25,
+  "vat_amount": 25,
+  "total_width": 1,
+  "total_height": 1,
+  "total_amount": 125,
+  "bill_day": "Thursay"
+}
